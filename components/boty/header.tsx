@@ -49,7 +49,7 @@ export function Header() {
 
           {/* Logo */}
           <Link href="/" className="absolute left-1/2 -translate-x-1/2">
-            <h1 className="font-serif text-3xl tracking-wider text-foreground uppercase font-bold">PawHaven</h1>
+            <h1 className="font-serif text-3xl tracking-wider text-foreground uppercase font-bold">Furever</h1>
           </Link>
 
           {/* Right Actions */}
